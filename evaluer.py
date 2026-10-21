@@ -8,7 +8,7 @@ from classifieur import Classifieur, charger
 
 def main():
     df = charger()
-    clf = Classifieur().preparer(df['texte'])
+    clf = Classifieur()
     train, test = train_test_split(df, test_size=0.25, random_state=0)
     clf.entrainer(train['texte'], train['categorie'])
     pred = clf.predire(test['texte'])

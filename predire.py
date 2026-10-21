@@ -8,7 +8,7 @@ def main():
         print(__doc__)
         sys.exit(1)
     df = charger()
-    clf = Classifieur().preparer(df['texte']).entrainer(df['texte'], df['categorie'])
+    clf = Classifieur().entrainer(df['texte'], df['categorie'])
     print(clf.predire([sys.argv[1]])[0])
 
 

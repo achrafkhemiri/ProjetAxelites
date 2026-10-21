@@ -20,13 +20,10 @@ class Classifieur:
         self.vectoriseur = TfidfVectorizer(ngram_range=(1, 2), min_df=1, lowercase=True, strip_accents='unicode')
         self.modele = LogisticRegression(max_iter=1000, C=5.0)
 
-    def preparer(self, textes):
-        """Ajuste le vocabulaire TF-IDF sur l'ensemble des textes disponibles (plus de vocabulaire = meilleures features)."""
-        self.vectoriseur.fit(textes)
-        return self
-
     def entrainer(self, textes, categories):
-        X = self.vectoriseur.transform(textes)
+        """Ajuste le TF-IDF ET le modèle sur les seuls textes d'entraînement.
+        Ajuster le vocabulaire sur des textes de test serait une fuite de données."""
+        X = self.vectoriseur.fit_transform(textes)
         self.modele.fit(X, categories)
         return self
 

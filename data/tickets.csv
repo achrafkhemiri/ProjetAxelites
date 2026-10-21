@@ -1,0 +1,771 @@
+id,texte,categorie
+1,"Madame, Monsieur, Impossible de me connecter, le mot de passe est refusé Merci.",technique
+2,Bonjour. Comment changer mon adresse email ? C'est urgent.,compte
+3,"Hello, Le prix affiché n'est pas celui facturé Bonne journée.",technique
+4,"Bonjour, La bouilloire est-elle garantie ? Bonne journée.",produit
+5,"Salut, Mettre à jour mon numéro de téléphone Bonne journée.",compte
+6,"Madame, Monsieur, Je n'ai pas reçu l'email de confirmation de la commande 1724 Merci.",compte
+7,Le suivi de colis ne fonctionne pas Merci.,technique
+8,"Hello, Erreur sur ma commande 1860 Merci d'avance.",technique
+9,"Hello, Comment obtenir une facture au nom de mon entreprise ? Bonne journée.",facturation
+10,"Salut, Le produit Earl Grey n'est plus disponible dans mon panier Cordialement.",produit
+11,"Madame, Monsieur, Colis perdu par le transporteur Cordialement.",livraison
+12,Qui a accès à mes informations ? Cordialement.,compte
+13,"Madame, Monsieur, Puis-je changer l'adresse de livraison de la commande 1090 ? Merci.",livraison
+14,Bonjour. Comment changer mon adresse email ? Merci.,compte
+15,"Salut, Puis-je changer l'adresse de livraison de la commande 1590 ? C'est urgent.",livraison
+16,"Madame, Monsieur, Impossible de me connecter, le mot de passe est refusé Merci.",technique
+17,"Salut, Erreur sur ma commande 1440 Cordialement.",livraison
+18,Besoin d'aide pour ma commande 4164 Bonne journée.,facturation
+19,"Madame, Monsieur, Le coffret contient-il des allergènes ?",produit
+20,Bonjour. Je ne comprends pas le statut de ma commande Merci.,livraison
+21,Bonjour. Je n'arrive pas à accéder à mon compte Cordialement.,technique
+22,Le produit Oolong n'est plus disponible dans mon panier Bonne journée.,produit
+23,"Hello, Erreur lors de l'ajout au panier Merci d'avance.",technique
+24,"Madame, Monsieur, Le site affiche une erreur 500 quand je valide mon panier C'est urgent.",technique
+25,Quelle est la différence entre les deux théières ?,produit
+26,"Madame, Monsieur, Le bouton payer ne fait rien Cordialement.",technique
+27,"Madame, Monsieur, Comment changer mon adresse email ? Cordialement.",compte
+28,"Hello, Je n'ai pas reçu l'email de confirmation de la commande 4878 Merci d'avance.",compte
+29,"Bonjour, Problème avec ma commande 8692 Merci d'avance.",facturation
+30,"Hello, Le montant prélevé ne correspond pas à ma commande 5333 Bonne journée.",facturation
+31,"Bonjour, Changer la langue de mon compte Merci.",compte
+32,Bonjour. Problème avec ma commande 7154 Merci.,produit
+33,"Salut, Peut-on acheter en gros pour un restaurant ? Merci d'avance.",produit
+34,Le site affiche une erreur 500 quand je valide mon panier Bonne journée.,technique
+35,"Bonjour, Le transporteur est passé en mon absence, comment récupérer le colis ? Cordialement.",livraison
+36,"Bonjour, Le code promo n'a pas été appliqué sur ma facture Cordialement.",facturation
+37,Bonjour. Je veux annuler la commande 3948 Merci d'avance.,livraison
+38,"Hello, Activer la double authentification C'est urgent.",compte
+39,"Hello, Je ne comprends pas le statut de ma commande Merci.",livraison
+40,"Bonjour, La page produit ne charge pas sur mobile",technique
+41,Les images ne s'affichent pas Merci d'avance.,technique
+42,"Hello, Ce produit est-il bio ? Cordialement.",produit
+43,"Hello, Changer la langue de mon compte Merci d'avance.",compte
+44,"Madame, Monsieur, Je n'arrive pas à accéder à mon compte Merci.",compte
+45,"Salut, L'application plante au démarrage sur Android Merci.",technique
+46,Bonjour. Livraison en point relais possible ? C'est urgent.,livraison
+47,"Hello, Paiement refusé alors que ma carte fonctionne C'est urgent.",facturation
+48,"Salut, Durée de conservation du thé Earl Grey Merci.",produit
+49,"Madame, Monsieur, Mon espace client affiche une erreur",technique
+50,"Salut, Le site affiche une erreur 500 quand je valide mon panier Merci d'avance.",technique
+51,"Bonjour, Changer la langue de mon compte Merci d'avance.",compte
+52,"Bonjour, Mon espace client affiche une erreur",technique
+53,"Madame, Monsieur, Colis perdu par le transporteur Cordialement.",livraison
+54,Bonjour. Le site est très lent depuis hier,technique
+55,"Bonjour, Le prix affiché n'est pas celui facturé Bonne journée.",facturation
+56,Le site ne me laisse pas changer mon mot de passe Merci.,compte
+57,Conseils de préparation pour le thé vert,produit
+58,"Hello, Changer la langue de mon compte Cordialement.",compte
+59,"Madame, Monsieur, Fusionner mes deux comptes clients Bonne journée.",compte
+60,Bonjour. Mon espace client affiche une erreur Merci d'avance.,compte
+61,"Hello, Erreur sur ma commande 7825 Bonne journée.",technique
+62,"Salut, Je ne comprends pas le statut de ma commande",facturation
+63,Bonjour. Besoin d'aide pour ma commande 4052,facturation
+64,Je n'ai pas été remboursé du retour du Oolong C'est urgent.,facturation
+65,"Salut, Ma commande 3496 n'est toujours pas arrivée Cordialement.",livraison
+66,"Salut, Erreur sur ma commande 1440 Cordialement.",livraison
+67,Bonjour. Le thé Earl Grey sera-t-il de nouveau en stock ? Cordialement.,produit
+68,Changer la langue de mon compte Bonne journée.,compte
+69,Bonjour. Le produit Rooibos n'est plus disponible dans mon panier Bonne journée.,technique
+70,"Salut, Mon compte a été bloqué sans raison",compte
+71,Je veux supprimer mon compte et mes données Merci d'avance.,compte
+72,"Madame, Monsieur, Peut-on acheter en gros pour un restaurant ? Bonne journée.",produit
+73,"Madame, Monsieur, Je ne comprends pas le statut de ma commande Merci.",facturation
+74,"Bonjour, Le site ne me laisse pas changer mon mot de passe Merci d'avance.",compte
+75,Je n'ai pas été remboursé du retour du Matcha Merci.,facturation
+76,"Bonjour, Le suivi de colis ne fonctionne pas C'est urgent.",livraison
+77,"Madame, Monsieur, Le montant prélevé ne correspond pas à ma commande 4853 C'est urgent.",facturation
+78,"Bonjour, Colis perdu par le transporteur Cordialement.",livraison
+79,"Salut, Le transporteur est passé en mon absence, comment récupérer le colis ? Merci.",livraison
+80,La page produit ne charge pas sur mobile Merci.,technique
+81,"Madame, Monsieur, Je n'arrive pas à accéder à mon compte Merci.",compte
+82,"Bonjour, L'application plante au démarrage sur Android Cordialement.",technique
+83,Il manque un article dans mon colis 7906 Cordialement.,livraison
+84,"Bonjour, Le code promo n'a pas été appliqué sur ma facture C'est urgent.",facturation
+85,"Salut, Durée de conservation du thé Earl Grey Merci.",produit
+86,"Salut, Problème avec ma commande 8710",livraison
+87,Avez-vous une version sans théine du Earl Grey ?,produit
+88,"Madame, Monsieur, Comment changer mon adresse email ? Cordialement.",compte
+89,Bonjour. La bouilloire est-elle garantie ? Merci.,produit
+90,Je n'ai pas été remboursé du retour du Rooibos Cordialement.,produit
+91,"Madame, Monsieur, Le site affiche une erreur 500 quand je valide mon panier",technique
+92,"Bonjour, La commande 4189 est bloquée Merci d'avance.",livraison
+93,Je ne reçois pas l'email de réinitialisation du mot de passe Merci d'avance.,technique
+94,Problème avec ma commande 9148 Cordialement.,produit
+95,Bonjour. La commande 9683 est bloquée Merci.,facturation
+96,"Bonjour, Mettre à jour mon numéro de téléphone Cordialement.",compte
+97,"Salut, Le site ne me laisse pas changer mon mot de passe",technique
+98,Bonjour. La commande 9683 est bloquée Merci.,facturation
+99,"Bonjour, Peut-on acheter en gros pour un restaurant ?",produit
+100,Le produit Matcha n'est plus disponible dans mon panier C'est urgent.,technique
+101,"Madame, Monsieur, Je ne comprends pas le statut de ma commande",livraison
+102,"Hello, Le produit Earl Grey n'est plus disponible dans mon panier Merci d'avance.",produit
+103,"Hello, Je n'arrive pas à accéder à mon compte Merci d'avance.",technique
+104,"Salut, La commande 7850 est bloquée Merci d'avance.",technique
+105,Je n'ai pas reçu l'email de confirmation de la commande 2295,compte
+106,"Bonjour, Problème avec ma commande 7035 Cordialement.",produit
+107,"Salut, Erreur lors de l'ajout au panier Cordialement.",technique
+108,Où en est l'expédition de la commande 1452 ? Merci.,livraison
+109,"Salut, Ma carte a été débitée deux fois Bonne journée.",facturation
+110,"Bonjour, Peut-on acheter en gros pour un restaurant ? Merci d'avance.",produit
+111,"Salut, Je n'ai pas reçu ma facture pour la commande 2312 C'est urgent.",facturation
+112,"Madame, Monsieur, Le produit Sencha n'est plus disponible dans mon panier",produit
+113,"Hello, Je n'ai pas reçu l'email de confirmation de la commande 5571 Merci.",livraison
+114,"Bonjour, Mon compte a été bloqué sans raison Merci d'avance.",compte
+115,Bonjour. Fusionner mes deux comptes clients Bonne journée.,compte
+116,Bonjour. Erreur sur ma commande 9609 Merci.,livraison
+117,Ma commande 5700 n'est toujours pas arrivée C'est urgent.,livraison
+118,"Bonjour, Peut-on acheter en gros pour un restaurant ? Merci d'avance.",produit
+119,"Bonjour, Je n'ai pas reçu l'email de confirmation de la commande 3295 Merci.",compte
+120,"Hello, Il manque un article dans mon colis 8564 Merci d'avance.",livraison
+121,Bonjour. La bouilloire est-elle garantie ? Merci.,produit
+122,"Salut, Je n'ai pas été remboursé du retour du Matcha Cordialement.",produit
+123,"Madame, Monsieur, Le montant prélevé ne correspond pas à ma commande 5889 Merci.",facturation
+124,Erreur lors de l'ajout au panier C'est urgent.,technique
+125,"Salut, Peut-on acheter en gros pour un restaurant ? C'est urgent.",produit
+126,Je veux annuler la commande 1783,livraison
+127,Bonjour. Je n'ai pas été remboursé du retour du Rooibos Bonne journée.,produit
+128,"Hello, La commande 2245 est bloquée C'est urgent.",technique
+129,"Madame, Monsieur, Le montant prélevé ne correspond pas à ma commande 4853 C'est urgent.",facturation
+130,Bonjour. Je n'ai pas reçu l'email de confirmation de la commande 5026 Bonne journée.,compte
+131,"Salut, Le site ne me laisse pas changer mon mot de passe Bonne journée.",compte
+132,Je conteste un prélèvement de 245 euros,facturation
+133,"Hello, Durée de conservation du thé Matcha Cordialement.",produit
+134,"Bonjour, Ce produit est-il bio ? Cordialement.",produit
+135,"Madame, Monsieur, Je n'ai pas reçu ma facture pour la commande 5315 C'est urgent.",facturation
+136,Bonjour. Activer la double authentification Merci.,compte
+137,"Hello, Je n'ai pas reçu ma facture pour la commande 2104",facturation
+138,"Bonjour, Je n'arrive pas à me désabonner de la newsletter Merci.",compte
+139,Le site ne me laisse pas changer mon mot de passe Merci.,compte
+140,Bonjour. Le colis est arrivé abîmé Bonne journée.,livraison
+141,Bonjour. Je ne comprends pas le statut de ma commande Cordialement.,livraison
+142,"Hello, Mettre à jour mon numéro de téléphone Merci.",compte
+143,"Madame, Monsieur, Je ne comprends pas le statut de ma commande Merci.",facturation
+144,"Bonjour, Je n'ai pas été remboursé du retour du Oolong Merci d'avance.",produit
+145,"Bonjour, Erreur lors de l'ajout au panier C'est urgent.",technique
+146,Bonjour. Je n'arrive pas à me désabonner de la newsletter Cordialement.,compte
+147,"Hello, Je ne comprends pas le statut de ma commande Merci.",livraison
+148,"Bonjour, Le produit reçu ne correspond pas à la photo Cordialement.",produit
+149,"Bonjour, Le bouton payer ne fait rien C'est urgent.",technique
+150,"Bonjour, Ma carte a été débitée deux fois",facturation
+151,"Salut, Fusionner mes deux comptes clients Merci d'avance.",compte
+152,Bonjour. Le bouton payer ne fait rien Bonne journée.,technique
+153,"Madame, Monsieur, Mon compte a été bloqué sans raison Merci d'avance.",compte
+154,"Madame, Monsieur, Mettre à jour mon numéro de téléphone",compte
+155,"Madame, Monsieur, Je n'ai pas reçu l'email de confirmation de la commande 1724 Merci.",compte
+156,"Hello, Je n'ai pas reçu l'email de confirmation de la commande 8790",compte
+157,"Bonjour, Ma carte a été débitée deux fois Cordialement.",facturation
+158,"Bonjour, Je n'ai pas reçu ma facture pour la commande 2535 C'est urgent.",facturation
+159,Bonjour. Le prix affiché n'est pas celui facturé,technique
+160,Comment changer mon adresse email ? C'est urgent.,compte
+161,"Bonjour, Je n'arrive pas à accéder à mon compte Merci d'avance.",compte
+162,Il manque un article dans mon colis 4467 Merci d'avance.,livraison
+163,"Bonjour, Ce produit est-il bio ? Bonne journée.",produit
+164,"Madame, Monsieur, Puis-je changer l'adresse de livraison de la commande 4505 ? Cordialement.",livraison
+165,"Hello, Le site ne me laisse pas changer mon mot de passe Merci d'avance.",technique
+166,La commande 1485 est bloquée Cordialement.,livraison
+167,"Bonjour, Les images ne s'affichent pas Bonne journée.",technique
+168,Bonjour. Je n'ai pas été remboursé du retour du Sencha C'est urgent.,facturation
+169,Le coffret contient-il des allergènes ? C'est urgent.,produit
+170,"Salut, La commande 7850 est bloquée Merci d'avance.",technique
+171,"Salut, Il manque un article dans mon colis 1158 Bonne journée.",livraison
+172,"Bonjour, Le transporteur est passé en mon absence, comment récupérer le colis ? Cordialement.",livraison
+173,"Salut, Peut-on acheter en gros pour un restaurant ?",produit
+174,"Madame, Monsieur, Je veux annuler la commande 2320 Cordialement.",livraison
+175,"Bonjour, Colis perdu par le transporteur Bonne journée.",livraison
+176,"Bonjour, Durée de conservation du thé Oolong",produit
+177,"Bonjour, Problème avec ma commande 3252 Merci.",facturation
+178,"Bonjour, Le prix affiché n'est pas celui facturé Bonne journée.",technique
+179,Paiement refusé alors que ma carte fonctionne Merci.,facturation
+180,"Madame, Monsieur, Mon espace client affiche une erreur",technique
+181,"Bonjour, Paiement refusé alors que ma carte fonctionne Cordialement.",facturation
+182,La commande 1485 est bloquée Cordialement.,livraison
+183,Bonjour. Je ne comprends pas le statut de ma commande Merci.,livraison
+184,"Hello, Le transporteur est passé en mon absence, comment récupérer le colis ? Merci d'avance.",livraison
+185,"Salut, Le colis est indiqué livré mais je n'ai rien reçu Merci d'avance.",livraison
+186,"Bonjour, Le prix affiché n'est pas celui facturé C'est urgent.",produit
+187,"Madame, Monsieur, Mon compte a été bloqué sans raison Merci d'avance.",compte
+188,"Bonjour, Peut-on acheter en gros pour un restaurant ? Merci d'avance.",produit
+189,Je conteste un prélèvement de 19 euros Merci d'avance.,facturation
+190,"Bonjour, La page produit ne charge pas sur mobile Cordialement.",technique
+191,"Madame, Monsieur, Mon compte a été bloqué sans raison Merci d'avance.",compte
+192,"Salut, Mettre à jour mon numéro de téléphone Bonne journée.",compte
+193,"Salut, Le transporteur est passé en mon absence, comment récupérer le colis ? Merci.",livraison
+194,Qui a accès à mes informations ? Cordialement.,compte
+195,"Bonjour, Le site ne me laisse pas changer mon mot de passe",technique
+196,Bonjour. Le produit reçu ne correspond pas à la photo,produit
+197,"Hello, Je n'arrive pas à me désabonner de la newsletter Bonne journée.",compte
+198,"Bonjour, Je ne reçois pas l'email de réinitialisation du mot de passe Bonne journée.",technique
+199,"Bonjour, Je veux exporter mes données personnelles Merci.",compte
+200,Bonjour. Il manque un article dans mon colis 1320,livraison
+201,Le site affiche une erreur 500 quand je valide mon panier Bonne journée.,technique
+202,"Hello, Livraison en point relais possible ? Merci d'avance.",livraison
+203,"Hello, La commande 5913 est bloquée C'est urgent.",facturation
+204,Bonjour. Je veux supprimer mon compte et mes données,compte
+205,"Madame, Monsieur, Activer la double authentification Merci.",compte
+206,Bonjour. Paiement refusé alors que ma carte fonctionne,facturation
+207,"Hello, Mon espace client affiche une erreur",technique
+208,Changer la langue de mon compte Bonne journée.,compte
+209,"Salut, Le site affiche une erreur 500 quand je valide mon panier Merci d'avance.",technique
+210,"Salut, Le prix affiché n'est pas celui facturé Bonne journée.",facturation
+211,Bonjour. Le thé Earl Grey sera-t-il de nouveau en stock ? Cordialement.,produit
+212,"Bonjour, Je n'ai pas reçu l'email de confirmation de la commande 8225 Merci.",livraison
+213,"Salut, Je n'ai pas été remboursé du retour du Earl Grey Merci.",produit
+214,Mon espace client affiche une erreur C'est urgent.,technique
+215,"Salut, Mon compte a été bloqué sans raison",compte
+216,"Salut, Je souhaite un remboursement de la commande 9666 Merci d'avance.",facturation
+217,"Bonjour, Je n'ai pas reçu ma facture pour la commande 3504 C'est urgent.",facturation
+218,"Bonjour, Paiement refusé alors que ma carte fonctionne Bonne journée.",facturation
+219,"Bonjour, Je n'ai pas été remboursé du retour du Rooibos Bonne journée.",facturation
+220,"Hello, Je n'ai pas reçu l'email de confirmation de la commande 5571 Merci.",livraison
+221,"Hello, Je veux supprimer mon compte et mes données Bonne journée.",compte
+222,Le coffret contient-il des allergènes ? C'est urgent.,produit
+223,Je n'ai pas été remboursé du retour du Earl Grey C'est urgent.,facturation
+224,Bonjour. La page produit ne charge pas sur mobile C'est urgent.,technique
+225,Bonjour. Je ne reçois pas l'email de réinitialisation du mot de passe Cordialement.,technique
+226,L'application plante au démarrage sur Android C'est urgent.,technique
+227,"Madame, Monsieur, Le produit Sencha n'est plus disponible dans mon panier C'est urgent.",technique
+228,"Salut, La commande 8378 est bloquée C'est urgent.",technique
+229,"Salut, Ma commande 3496 n'est toujours pas arrivée Cordialement.",livraison
+230,Changer la langue de mon compte Cordialement.,compte
+231,"Madame, Monsieur, Le coffret contient-il des allergènes ?",produit
+232,"Hello, Je n'ai pas reçu ma facture pour la commande 2104",facturation
+233,Ma commande 5700 n'est toujours pas arrivée C'est urgent.,livraison
+234,"Bonjour, Il manque un article dans mon colis 9518 Merci d'avance.",livraison
+235,"Bonjour, Le produit Earl Grey n'est plus disponible dans mon panier Bonne journée.",technique
+236,"Hello, Erreur sur ma commande 1860 Merci d'avance.",technique
+237,"Salut, Je ne comprends pas le statut de ma commande",facturation
+238,"Hello, Erreur sur ma commande 7825 Bonne journée.",technique
+239,Bonjour. Conseils de préparation pour le thé vert Merci d'avance.,produit
+240,Bonjour. Je ne reçois pas l'email de réinitialisation du mot de passe Cordialement.,technique
+241,"Hello, Mon espace client affiche une erreur Cordialement.",compte
+242,"Hello, Le code promo n'a pas été appliqué sur ma facture",facturation
+243,"Hello, Quelle est la différence entre les deux théières ? Cordialement.",produit
+244,"Madame, Monsieur, Je conteste un prélèvement de 118 euros Cordialement.",facturation
+245,"Hello, Le site est très lent depuis hier C'est urgent.",technique
+246,"Hello, Je veux supprimer mon compte et mes données Bonne journée.",compte
+247,"Bonjour, Il manque un article dans mon colis 9518 Merci d'avance.",livraison
+248,Le thé Earl Grey sera-t-il de nouveau en stock ? Bonne journée.,produit
+249,Bonjour. Problème avec ma commande 7154 Merci.,produit
+250,"Hello, La commande 8319 est bloquée Merci d'avance.",technique
+251,Besoin d'aide pour ma commande 4396 Cordialement.,facturation
+252,"Madame, Monsieur, Je ne reçois pas l'email de réinitialisation du mot de passe C'est urgent.",technique
+253,"Bonjour, Ma carte a été débitée deux fois Cordialement.",facturation
+254,Erreur de TVA sur la facture 5552 Merci d'avance.,facturation
+255,La commande 3399 est bloquée Merci d'avance.,technique
+256,"Bonjour, Erreur lors de l'ajout au panier C'est urgent.",technique
+257,Le site ne me laisse pas changer mon mot de passe Merci.,compte
+258,Bonjour. La page produit ne charge pas sur mobile C'est urgent.,technique
+259,"Bonjour, La commande 8055 est bloquée Merci d'avance.",facturation
+260,"Salut, Problème avec ma commande 4203 Merci.",facturation
+261,"Salut, Les images ne s'affichent pas",technique
+262,"Madame, Monsieur, Je n'ai pas été remboursé du retour du Sencha Bonne journée.",facturation
+263,"Madame, Monsieur, Le produit Sencha n'est plus disponible dans mon panier C'est urgent.",technique
+264,Bonjour. Le montant prélevé ne correspond pas à ma commande 5554 Merci.,facturation
+265,"Hello, Je n'ai pas reçu l'email de confirmation de la commande 3188 Cordialement.",compte
+266,"Bonjour, Conseils de préparation pour le thé vert Bonne journée.",produit
+267,"Hello, Quelle est la différence entre les deux théières ? Cordialement.",produit
+268,"Hello, Le colis est arrivé abîmé Merci d'avance.",livraison
+269,"Bonjour, Je n'ai pas reçu ma facture pour la commande 3504 C'est urgent.",facturation
+270,"Hello, Je n'ai pas reçu l'email de confirmation de la commande 5927",compte
+271,"Salut, Je n'ai pas été remboursé du retour du Matcha C'est urgent.",produit
+272,Bonjour. Le site affiche une erreur 500 quand je valide mon panier Merci d'avance.,technique
+273,"Hello, Quelle est la différence entre les deux théières ?",produit
+274,"Hello, Quel est le délai de livraison pour l'Allemagne ? C'est urgent.",livraison
+275,"Hello, Mon espace client affiche une erreur C'est urgent.",compte
+276,Bonjour. Comment changer mon adresse email ? Merci.,compte
+277,"Salut, Je ne reçois pas l'email de réinitialisation du mot de passe Cordialement.",technique
+278,Le produit Rooibos n'est plus disponible dans mon panier C'est urgent.,technique
+279,"Salut, L'application plante au démarrage sur Android Merci.",technique
+280,"Salut, Il manque un article dans mon colis 1158 Bonne journée.",livraison
+281,"Madame, Monsieur, Puis-je changer l'adresse de livraison de la commande 9486 ? C'est urgent.",livraison
+282,Problème avec ma commande 9148 Cordialement.,produit
+283,Le prix affiché n'est pas celui facturé C'est urgent.,produit
+284,"Salut, Je ne comprends pas le statut de ma commande Bonne journée.",livraison
+285,Avez-vous une version sans théine du Earl Grey ?,produit
+286,"Madame, Monsieur, Le montant prélevé ne correspond pas à ma commande 8962 Merci.",facturation
+287,Durée de conservation du thé Matcha Cordialement.,produit
+288,"Madame, Monsieur, Pouvez-vous m'envoyer un avoir pour la commande 8744 ? Cordialement.",facturation
+289,Bonjour. Le produit reçu ne correspond pas à la photo,produit
+290,"Salut, Fusionner mes deux comptes clients Bonne journée.",compte
+291,"Salut, Je conteste un prélèvement de 171 euros Merci.",facturation
+292,"Madame, Monsieur, Il manque un article dans mon colis 3851 C'est urgent.",livraison
+293,Bonjour. Le site ne me laisse pas changer mon mot de passe,compte
+294,"Salut, Je n'ai pas été remboursé du retour du Matcha C'est urgent.",produit
+295,"Bonjour, Je veux exporter mes données personnelles Bonne journée.",compte
+296,Bonjour. Le produit reçu ne correspond pas à la photo Merci.,produit
+297,"Madame, Monsieur, Pouvez-vous m'envoyer un avoir pour la commande 8787 ? Merci d'avance.",facturation
+298,"Bonjour, La page produit ne charge pas sur mobile",technique
+299,"Hello, La commande 5333 est bloquée Merci d'avance.",livraison
+300,"Salut, Le colis est indiqué livré mais je n'ai rien reçu Merci d'avance.",livraison
+301,"Madame, Monsieur, Le site affiche une erreur 500 quand je valide mon panier C'est urgent.",technique
+302,"Madame, Monsieur, Je souhaite un remboursement de la commande 4598 Merci.",facturation
+303,"Salut, Où en est l'expédition de la commande 6198 ? Bonne journée.",livraison
+304,Bonjour. Le panier se vide tout seul Merci.,technique
+305,"Salut, Mon compte a été bloqué sans raison",compte
+306,"Salut, Le site affiche une erreur 500 quand je valide mon panier",technique
+307,Bonjour. Ce produit est-il bio ? Merci d'avance.,produit
+308,Bonjour. Livraison en point relais possible ? C'est urgent.,livraison
+309,"Madame, Monsieur, La commande 3230 est bloquée C'est urgent.",technique
+310,Le coffret contient-il des allergènes ? C'est urgent.,produit
+311,"Salut, Je n'ai pas été remboursé du retour du Rooibos Bonne journée.",produit
+312,"Hello, Le prix affiché n'est pas celui facturé Bonne journée.",technique
+313,"Salut, Pouvez-vous m'envoyer un avoir pour la commande 5010 ? Cordialement.",facturation
+314,"Salut, Problème avec ma commande 8710",livraison
+315,Bonjour. Je n'ai pas reçu l'email de confirmation de la commande 6147 Merci d'avance.,livraison
+316,Bonjour. Le produit reçu ne correspond pas à la photo Merci.,produit
+317,"Salut, Erreur sur ma commande 6095 Merci d'avance.",technique
+318,Erreur sur ma commande 5089 Bonne journée.,facturation
+319,"Bonjour, Le coffret contient-il des allergènes ? C'est urgent.",produit
+320,Bonjour. Le site est très lent depuis hier,technique
+321,Le panier se vide tout seul Merci d'avance.,technique
+322,"Hello, Mettre à jour mon numéro de téléphone Bonne journée.",compte
+323,"Madame, Monsieur, Je ne comprends pas le statut de ma commande Merci.",facturation
+324,"Bonjour, Erreur de TVA sur la facture 7396 Merci d'avance.",facturation
+325,"Madame, Monsieur, Besoin d'aide pour ma commande 2284",livraison
+326,Le produit Matcha n'est plus disponible dans mon panier C'est urgent.,technique
+327,"Madame, Monsieur, Je n'arrive pas à accéder à mon compte Merci.",technique
+328,"Hello, L'application plante au démarrage sur Android Merci.",technique
+329,Durée de conservation du thé Sencha Merci.,produit
+330,Bonjour. Erreur lors de l'ajout au panier Bonne journée.,technique
+331,"Bonjour, Le bouton payer ne fait rien C'est urgent.",technique
+332,"Bonjour, Besoin d'aide pour ma commande 3255 Cordialement.",facturation
+333,"Madame, Monsieur, Où en est l'expédition de la commande 6491 ? Bonne journée.",livraison
+334,"Bonjour, Je n'ai pas été remboursé du retour du Matcha Merci d'avance.",produit
+335,"Bonjour, Le colis est arrivé abîmé Bonne journée.",livraison
+336,Bonjour. Le colis est indiqué livré mais je n'ai rien reçu Bonne journée.,livraison
+337,Je n'ai pas reçu ma facture pour la commande 7572 Merci.,facturation
+338,Bonjour. Comment obtenir une facture au nom de mon entreprise ? Merci.,facturation
+339,"Bonjour, Je ne comprends pas le statut de ma commande",facturation
+340,"Bonjour, Le produit Rooibos n'est plus disponible dans mon panier Bonne journée.",produit
+341,"Madame, Monsieur, Ma commande 9837 n'est toujours pas arrivée Merci.",livraison
+342,"Bonjour, Mettre à jour mon numéro de téléphone Merci d'avance.",compte
+343,"Madame, Monsieur, Mon espace client affiche une erreur",technique
+344,Bonjour. Problème avec ma commande 9476 C'est urgent.,produit
+345,"Hello, Fusionner mes deux comptes clients C'est urgent.",compte
+346,"Bonjour, Le suivi de colis ne fonctionne pas C'est urgent.",livraison
+347,"Bonjour, Je n'arrive pas à me désabonner de la newsletter Merci.",compte
+348,"Bonjour, Je n'ai pas été remboursé du retour du Oolong Merci d'avance.",produit
+349,Comment changer mon adresse email ? Merci d'avance.,compte
+350,Mettre à jour mon numéro de téléphone,compte
+351,"Madame, Monsieur, Mon espace client affiche une erreur",technique
+352,"Hello, La commande 6269 est bloquée Cordialement.",technique
+353,"Hello, Je n'arrive pas à accéder à mon compte C'est urgent.",technique
+354,"Bonjour, Paiement refusé alors que ma carte fonctionne Bonne journée.",facturation
+355,"Madame, Monsieur, Mon espace client affiche une erreur",technique
+356,Bonjour. Je ne comprends pas le statut de ma commande Cordialement.,livraison
+357,"Hello, Activer la double authentification C'est urgent.",compte
+358,"Hello, Colis perdu par le transporteur Merci.",livraison
+359,Mettre à jour mon numéro de téléphone,compte
+360,"Madame, Monsieur, Erreur sur ma commande 2698",livraison
+361,"Bonjour, Erreur sur ma commande 2465 Bonne journée.",technique
+362,"Bonjour, Le code promo n'a pas été appliqué sur ma facture",facturation
+363,"Bonjour, Conseils de préparation pour le thé vert Cordialement.",produit
+364,Le coffret contient-il des allergènes ? Cordialement.,produit
+365,Erreur lors de l'ajout au panier Merci.,technique
+366,"Madame, Monsieur, Erreur sur ma commande 2698",livraison
+367,"Bonjour, Je ne reçois pas l'email de réinitialisation du mot de passe C'est urgent.",technique
+368,"Bonjour, Le produit Rooibos n'est plus disponible dans mon panier Bonne journée.",produit
+369,"Madame, Monsieur, Mon espace client affiche une erreur C'est urgent.",compte
+370,La page produit ne charge pas sur mobile Merci.,technique
+371,"Madame, Monsieur, Erreur sur ma commande 7244 Bonne journée.",livraison
+372,"Salut, Je n'ai pas reçu l'email de confirmation de la commande 9499 Bonne journée.",compte
+373,Bonjour. Le thé Earl Grey sera-t-il de nouveau en stock ? Cordialement.,produit
+374,"Le transporteur est passé en mon absence, comment récupérer le colis ? Bonne journée.",livraison
+375,"Salut, Le prix affiché n'est pas celui facturé Bonne journée.",produit
+376,"Salut, Puis-je changer l'adresse de livraison de la commande 2876 ?",livraison
+377,"Bonjour, Besoin d'aide pour ma commande 6916 Bonne journée.",compte
+378,"Bonjour, Le montant prélevé ne correspond pas à ma commande 7224 Merci d'avance.",facturation
+379,"Hello, Le transporteur est passé en mon absence, comment récupérer le colis ? C'est urgent.",livraison
+380,"Hello, Le colis est arrivé abîmé Merci d'avance.",livraison
+381,"Hello, Le code promo n'a pas été appliqué sur ma facture Bonne journée.",facturation
+382,"Hello, Je n'arrive pas à me désabonner de la newsletter Bonne journée.",compte
+383,Je n'ai pas reçu l'email de confirmation de la commande 3525,livraison
+384,Je ne comprends pas le statut de ma commande Cordialement.,livraison
+385,"Salut, Peut-on acheter en gros pour un restaurant ? C'est urgent.",produit
+386,"Salut, Le prix affiché n'est pas celui facturé Bonne journée.",facturation
+387,Le colis est arrivé abîmé,livraison
+388,"Hello, Problème avec ma commande 6455 Merci.",livraison
+389,"Hello, Comment obtenir une facture au nom de mon entreprise ? Cordialement.",facturation
+390,"Madame, Monsieur, Je conteste un prélèvement de 118 euros Cordialement.",facturation
+391,"Madame, Monsieur, Puis-je changer l'adresse de livraison de la commande 1090 ? Merci.",livraison
+392,"Bonjour, Mon espace client affiche une erreur C'est urgent.",technique
+393,"Madame, Monsieur, Erreur lors de l'ajout au panier Merci d'avance.",technique
+394,"Bonjour, La commande 4189 est bloquée Merci d'avance.",livraison
+395,Pouvez-vous m'envoyer un avoir pour la commande 3646 ?,facturation
+396,"Salut, La bouilloire est-elle garantie ? Bonne journée.",produit
+397,"Madame, Monsieur, Fusionner mes deux comptes clients Bonne journée.",compte
+398,Je veux exporter mes données personnelles C'est urgent.,compte
+399,"Impossible de me connecter, le mot de passe est refusé Merci d'avance.",technique
+400,"Hello, Paiement refusé alors que ma carte fonctionne Merci.",facturation
+401,Le produit reçu ne correspond pas à la photo Merci.,produit
+402,"Madame, Monsieur, Le transporteur est passé en mon absence, comment récupérer le colis ? C'est urgent.",livraison
+403,Bonjour. Je n'ai pas été remboursé du retour du Oolong Bonne journée.,facturation
+404,"Madame, Monsieur, Le colis est indiqué livré mais je n'ai rien reçu Merci.",livraison
+405,Bonjour. Le montant prélevé ne correspond pas à ma commande 7252 Merci d'avance.,facturation
+406,Il manque un article dans mon colis 4467 Merci d'avance.,livraison
+407,"Bonjour, Le prix affiché n'est pas celui facturé Bonne journée.",technique
+408,"Bonjour, Le prix affiché n'est pas celui facturé C'est urgent.",produit
+409,"Madame, Monsieur, Le site ne me laisse pas changer mon mot de passe C'est urgent.",technique
+410,Erreur lors de l'ajout au panier Merci d'avance.,technique
+411,"Bonjour, Le prix affiché n'est pas celui facturé Cordialement.",facturation
+412,"Bonjour, Ma carte a été débitée deux fois",facturation
+413,"Madame, Monsieur, Je n'arrive pas à accéder à mon compte Merci.",technique
+414,"Salut, Je souhaite un remboursement de la commande 9666 Merci d'avance.",facturation
+415,"Bonjour, Je veux supprimer mon compte et mes données Cordialement.",compte
+416,"Madame, Monsieur, Je n'ai pas reçu ma facture pour la commande 5315 C'est urgent.",facturation
+417,Bonjour. La commande 8204 est bloquée Merci.,facturation
+418,"Hello, Il manque un article dans mon colis 8564 Merci d'avance.",livraison
+419,"Madame, Monsieur, Le produit Sencha n'est plus disponible dans mon panier",produit
+420,"Salut, Mon espace client affiche une erreur",technique
+421,"Hello, Avez-vous une version sans théine du Sencha ? Merci d'avance.",produit
+422,"Bonjour, Je n'ai pas été remboursé du retour du Rooibos Bonne journée.",facturation
+423,"Salut, Problème avec ma commande 7340 Merci d'avance.",facturation
+424,"Bonjour, Le panier se vide tout seul C'est urgent.",technique
+425,Changer la langue de mon compte Bonne journée.,compte
+426,"Madame, Monsieur, Mon compte a été bloqué sans raison Merci d'avance.",compte
+427,"Salut, Je conteste un prélèvement de 47 euros Merci.",facturation
+428,"Salut, Je conteste un prélèvement de 47 euros Merci.",facturation
+429,Qui a accès à mes informations ? Cordialement.,compte
+430,"Hello, Impossible de me connecter, le mot de passe est refusé",technique
+431,Le thé Earl Grey sera-t-il de nouveau en stock ? Bonne journée.,produit
+432,"Bonjour, Je ne comprends pas le statut de ma commande Cordialement.",facturation
+433,"Hello, Le prix affiché n'est pas celui facturé Cordialement.",technique
+434,"Hello, Comment obtenir une facture au nom de mon entreprise ? Bonne journée.",facturation
+435,Bonjour. Il manque un article dans mon colis 1475 Bonne journée.,livraison
+436,"Madame, Monsieur, La commande 3230 est bloquée C'est urgent.",technique
+437,"Madame, Monsieur, Le bouton payer ne fait rien",technique
+438,Les images ne s'affichent pas C'est urgent.,technique
+439,"Salut, La commande 8378 est bloquée C'est urgent.",technique
+440,Pouvez-vous m'envoyer un avoir pour la commande 3646 ?,facturation
+441,Bonjour. Je n'arrive pas à accéder à mon compte Cordialement.,technique
+442,Je veux annuler la commande 1783,livraison
+443,"Salut, Le coffret contient-il des allergènes ? Cordialement.",produit
+444,Je n'ai pas été remboursé du retour du Rooibos Cordialement.,produit
+445,Bonjour. Je n'ai pas reçu l'email de confirmation de la commande 7129 Bonne journée.,compte
+446,"Madame, Monsieur, Je veux annuler la commande 1436 Bonne journée.",facturation
+447,"Bonjour, Le panier se vide tout seul C'est urgent.",technique
+448,"Salut, La commande 8798 est bloquée Bonne journée.",livraison
+449,"Hello, Je ne reçois pas l'email de réinitialisation du mot de passe",technique
+450,"Salut, Je ne reçois pas l'email de réinitialisation du mot de passe Cordialement.",technique
+451,"Bonjour. Impossible de me connecter, le mot de passe est refusé Cordialement.",technique
+452,Ma commande 4441 n'est toujours pas arrivée Merci d'avance.,livraison
+453,Bonjour. Je veux annuler la commande 5061,livraison
+454,Bonjour. Le prix affiché n'est pas celui facturé,technique
+455,"Madame, Monsieur, Ma carte a été débitée deux fois Cordialement.",facturation
+456,"Bonjour, Quelle est la différence entre les deux théières ? C'est urgent.",produit
+457,"Hello, Je n'arrive pas à accéder à mon compte C'est urgent.",technique
+458,Bonjour. Erreur de TVA sur la facture 1887 Cordialement.,facturation
+459,Bonjour. Fusionner mes deux comptes clients C'est urgent.,compte
+460,Erreur sur ma commande 6053 C'est urgent.,livraison
+461,Bonjour. Problème avec ma commande 9476 C'est urgent.,produit
+462,"Bonjour, Il manque un article dans mon colis 3938 Bonne journée.",livraison
+463,"Hello, Durée de conservation du thé Oolong Cordialement.",produit
+464,"Salut, Je n'ai pas reçu ma facture pour la commande 2312 C'est urgent.",facturation
+465,"Salut, Peut-on acheter en gros pour un restaurant ?",produit
+466,Bonjour. Comment obtenir une facture au nom de mon entreprise ? Merci.,facturation
+467,"Hello, La commande 8319 est bloquée Merci d'avance.",technique
+468,"Bonjour, Mon compte a été bloqué sans raison Merci d'avance.",compte
+469,Mon compte a été bloqué sans raison C'est urgent.,compte
+470,Bonjour. Je n'ai pas reçu l'email de confirmation de la commande 6147 Merci d'avance.,livraison
+471,"Bonjour, Je n'ai pas reçu l'email de confirmation de la commande 8225 Merci.",livraison
+472,"Hello, Fusionner mes deux comptes clients Merci.",compte
+473,"Salut, Peut-on acheter en gros pour un restaurant ? Merci d'avance.",produit
+474,"Bonjour, Le produit Earl Grey n'est plus disponible dans mon panier Bonne journée.",technique
+475,"Madame, Monsieur, Le prix affiché n'est pas celui facturé Cordialement.",produit
+476,Le produit reçu ne correspond pas à la photo Merci d'avance.,produit
+477,"Hello, Conseils de préparation pour le thé vert Merci.",produit
+478,"Bonjour, Le code promo n'a pas été appliqué sur ma facture Cordialement.",facturation
+479,"Bonjour, Le montant prélevé ne correspond pas à ma commande 5506 Merci.",facturation
+480,"Bonjour, Qui a accès à mes informations ? Merci d'avance.",compte
+481,Besoin d'aide pour ma commande 4396 Cordialement.,facturation
+482,"Madame, Monsieur, Le coffret contient-il des allergènes ? Cordialement.",produit
+483,"Hello, Besoin d'aide pour ma commande 2033 Merci d'avance.",livraison
+484,"Salut, Le colis est arrivé abîmé Merci d'avance.",livraison
+485,"Bonjour, Je n'arrive pas à me désabonner de la newsletter Merci d'avance.",compte
+486,"Hello, L'application plante au démarrage sur Android Merci.",technique
+487,Quelle est la différence entre les deux théières ? Bonne journée.,produit
+488,Le coffret contient-il des allergènes ? C'est urgent.,produit
+489,"Madame, Monsieur, Le prix affiché n'est pas celui facturé Cordialement.",produit
+490,"Madame, Monsieur, Le panier se vide tout seul C'est urgent.",technique
+491,"Hello, Avez-vous une version sans théine du Sencha ? Merci d'avance.",produit
+492,"Bonjour, Ce produit est-il bio ? Bonne journée.",produit
+493,"Madame, Monsieur, Je veux annuler la commande 2320 Cordialement.",livraison
+494,"Salut, Fusionner mes deux comptes clients Bonne journée.",compte
+495,Bonjour. Problème avec ma commande 4342 Merci.,facturation
+496,"Hello, Besoin d'aide pour ma commande 2341 C'est urgent.",compte
+497,"Hello, Fusionner mes deux comptes clients Merci.",compte
+498,"Salut, L'application plante au démarrage sur Android Merci d'avance.",technique
+499,"Bonjour, L'application plante au démarrage sur Android Cordialement.",technique
+500,"Salut, Comment obtenir une facture au nom de mon entreprise ? Bonne journée.",facturation
+501,"Bonjour, Le site ne me laisse pas changer mon mot de passe",technique
+502,Bonjour. Où en est l'expédition de la commande 9976 ? Bonne journée.,livraison
+503,"Salut, Erreur sur ma commande 6095 Merci d'avance.",technique
+504,"Salut, Je ne comprends pas le statut de ma commande Bonne journée.",livraison
+505,Erreur lors de l'ajout au panier Merci d'avance.,technique
+506,"Hello, Je n'ai pas reçu l'email de confirmation de la commande 3188 Cordialement.",compte
+507,Bonjour. Puis-je changer l'adresse de livraison de la commande 3885 ? C'est urgent.,livraison
+508,Bonjour. Il manque un article dans mon colis 1320,livraison
+509,"Bonjour, Je veux exporter mes données personnelles",compte
+510,Bonjour. Erreur lors de l'ajout au panier Bonne journée.,technique
+511,"Bonjour, Je conteste un prélèvement de 289 euros Merci.",facturation
+512,Bonjour. La page produit ne charge pas sur mobile Merci.,technique
+513,"Salut, Le coffret contient-il des allergènes ? Cordialement.",produit
+514,"Salut, Mettre à jour mon numéro de téléphone Bonne journée.",compte
+515,"Hello, Le montant prélevé ne correspond pas à ma commande 5333 Bonne journée.",facturation
+516,"Hello, Le site est très lent depuis hier C'est urgent.",technique
+517,"Madame, Monsieur, Peut-on acheter en gros pour un restaurant ? Bonne journée.",produit
+518,"Bonjour, Durée de conservation du thé Oolong",produit
+519,Bonjour. Je n'ai pas été remboursé du retour du Sencha Bonne journée.,produit
+520,Bonjour. Le produit reçu ne correspond pas à la photo Merci d'avance.,produit
+521,Bonjour. Mon compte a été bloqué sans raison C'est urgent.,compte
+522,"Salut, Mon espace client affiche une erreur",technique
+523,"Hello, Je n'arrive pas à accéder à mon compte Merci d'avance.",technique
+524,Besoin d'aide pour ma commande 8052,facturation
+525,"Salut, Le panier se vide tout seul Cordialement.",technique
+526,Bonjour. Je veux annuler la commande 2195 Cordialement.,livraison
+527,Bonjour. Le prix affiché n'est pas celui facturé Merci.,facturation
+528,"Madame, Monsieur, Le coffret contient-il des allergènes ?",produit
+529,Bonjour. Je souhaite un remboursement de la commande 6180 Cordialement.,facturation
+530,"Madame, Monsieur, Ma carte a été débitée deux fois Cordialement.",facturation
+531,"Hello, La commande 5913 est bloquée C'est urgent.",facturation
+532,Changer la langue de mon compte Cordialement.,compte
+533,"Madame, Monsieur, Livraison en point relais possible ?",livraison
+534,"Bonjour, Comment changer mon adresse email ? Merci.",compte
+535,Bonjour. Paiement refusé alors que ma carte fonctionne,facturation
+536,Le produit Rooibos n'est plus disponible dans mon panier C'est urgent.,technique
+537,L'application plante au démarrage sur Android C'est urgent.,technique
+538,Bonjour. Besoin d'aide pour ma commande 4052,facturation
+539,"Hello, Mon espace client affiche une erreur",technique
+540,Bonjour. Mon compte a été bloqué sans raison C'est urgent.,compte
+541,"Madame, Monsieur, Le coffret contient-il des allergènes ? Cordialement.",produit
+542,"Hello, Je n'ai pas été remboursé du retour du Rooibos",facturation
+543,"Bonjour, Le produit Sencha n'est plus disponible dans mon panier Cordialement.",produit
+544,"Salut, Paiement refusé alors que ma carte fonctionne Bonne journée.",facturation
+545,"Salut, Le suivi de colis ne fonctionne pas Merci.",technique
+546,"Bonjour, Qui a accès à mes informations ? Merci d'avance.",compte
+547,Bonjour. Erreur sur ma commande 1257 C'est urgent.,livraison
+548,"Madame, Monsieur, Pouvez-vous m'envoyer un avoir pour la commande 8744 ? Cordialement.",facturation
+549,"Salut, Mon compte a été bloqué sans raison",compte
+550,"Salut, Les images ne s'affichent pas",technique
+551,"Hello, Le site est très lent depuis hier",technique
+552,Bonjour. Erreur sur ma commande 8822 Merci d'avance.,livraison
+553,"Bonjour, Quel est le délai de livraison pour l'Allemagne ? Cordialement.",livraison
+554,"Salut, Je n'ai pas reçu ma facture pour la commande 8811 Merci.",facturation
+555,"Salut, Quelle est la différence entre les deux théières ? Bonne journée.",produit
+556,"Bonjour, Je n'arrive pas à me désabonner de la newsletter Merci d'avance.",compte
+557,"Madame, Monsieur, Erreur de TVA sur la facture 8973 Merci d'avance.",facturation
+558,"Bonjour, Je n'ai pas reçu ma facture pour la commande 2535 C'est urgent.",facturation
+559,"Salut, Le prix affiché n'est pas celui facturé Bonne journée.",produit
+560,Comment changer mon adresse email ? C'est urgent.,compte
+561,Je n'ai pas été remboursé du retour du Oolong C'est urgent.,facturation
+562,"Hello, Quel est le délai de livraison pour l'Allemagne ? C'est urgent.",livraison
+563,"Bonjour, Conseils de préparation pour le thé vert Cordialement.",produit
+564,"Madame, Monsieur, Erreur lors de l'ajout au panier Merci d'avance.",technique
+565,"Hello, La commande 2245 est bloquée C'est urgent.",technique
+566,"Hello, Le transporteur est passé en mon absence, comment récupérer le colis ? Merci d'avance.",livraison
+567,"Hello, Ce produit est-il bio ? Cordialement.",produit
+568,"Hello, Mettre à jour mon numéro de téléphone Bonne journée.",compte
+569,"Salut, Je ne comprends pas le statut de ma commande Merci.",livraison
+570,Bonjour. Le produit Rooibos n'est plus disponible dans mon panier Bonne journée.,technique
+571,"Hello, Le site ne me laisse pas changer mon mot de passe",technique
+572,Changer la langue de mon compte Bonne journée.,compte
+573,"Bonjour, Il manque un article dans mon colis 6409 Bonne journée.",livraison
+574,"Hello, La bouilloire est-elle garantie ? Bonne journée.",produit
+575,Bonjour. Puis-je changer l'adresse de livraison de la commande 3088 ? Merci d'avance.,livraison
+576,"Le transporteur est passé en mon absence, comment récupérer le colis ? Bonne journée.",livraison
+577,"Madame, Monsieur, Durée de conservation du thé Rooibos Merci d'avance.",produit
+578,Les images ne s'affichent pas Merci d'avance.,technique
+579,"Hello, Problème avec ma commande 4524",facturation
+580,"Salut, Paiement refusé alors que ma carte fonctionne Bonne journée.",facturation
+581,Bonjour. Le site est très lent depuis hier Merci d'avance.,technique
+582,"Salut, Quelle est la différence entre les deux théières ? Bonne journée.",produit
+583,"Madame, Monsieur, Le panier se vide tout seul Merci d'avance.",technique
+584,"Bonjour, Peut-on acheter en gros pour un restaurant ? Merci d'avance.",produit
+585,"Hello, Erreur lors de l'ajout au panier Merci d'avance.",technique
+586,"Bonjour, Le coffret contient-il des allergènes ? C'est urgent.",produit
+587,"Hello, Je n'ai pas été remboursé du retour du Rooibos",facturation
+588,"Bonjour, Je n'ai pas été remboursé du retour du Matcha Merci d'avance.",produit
+589,"Madame, Monsieur, Je veux annuler la commande 1436 Bonne journée.",facturation
+590,"Salut, Je n'ai pas été remboursé du retour du Rooibos Bonne journée.",produit
+591,"Hello, Le site est très lent depuis hier C'est urgent.",technique
+592,Le code promo n'a pas été appliqué sur ma facture C'est urgent.,facturation
+593,"Hello, Le produit Earl Grey n'est plus disponible dans mon panier Merci d'avance.",produit
+594,"Madame, Monsieur, Durée de conservation du thé Rooibos Merci d'avance.",produit
+595,"Salut, Erreur lors de l'ajout au panier Cordialement.",technique
+596,"Bonjour, Les images ne s'affichent pas Bonne journée.",technique
+597,Erreur sur ma commande 5089 Bonne journée.,facturation
+598,Le code promo n'a pas été appliqué sur ma facture Bonne journée.,facturation
+599,Bonjour. Je n'ai pas été remboursé du retour du Rooibos Bonne journée.,produit
+600,"Bonjour, Livraison en point relais possible ? Bonne journée.",livraison
+601,"Salut, Le suivi de colis ne fonctionne pas Bonne journée.",technique
+602,"Madame, Monsieur, Mettre à jour mon numéro de téléphone",compte
+603,Le produit reçu ne correspond pas à la photo Merci d'avance.,produit
+604,"Hello, Paiement refusé alors que ma carte fonctionne Merci.",facturation
+605,"Salut, Le produit reçu ne correspond pas à la photo Merci d'avance.",produit
+606,"Bonjour, Le site ne me laisse pas changer mon mot de passe Merci d'avance.",compte
+607,"Salut, Comment obtenir une facture au nom de mon entreprise ? Bonne journée.",facturation
+608,Bonjour. Où en est l'expédition de la commande 3532 ? Merci.,livraison
+609,"Bonjour, Ce produit est-il bio ? Cordialement.",produit
+610,"Salut, Le prix affiché n'est pas celui facturé Merci.",facturation
+611,"Madame, Monsieur, Je veux annuler la commande 5949 Bonne journée.",livraison
+612,Je veux exporter mes données personnelles C'est urgent.,compte
+613,"Bonjour. Impossible de me connecter, le mot de passe est refusé Cordialement.",technique
+614,Fusionner mes deux comptes clients Bonne journée.,compte
+615,"Bonjour, Livraison en point relais possible ? Bonne journée.",livraison
+616,"Salut, Quel est le délai de livraison pour l'Allemagne ? Bonne journée.",livraison
+617,"Salut, Problème avec ma commande 7340 Merci d'avance.",facturation
+618,"Madame, Monsieur, Où en est l'expédition de la commande 6491 ? Bonne journée.",livraison
+619,Le coffret contient-il des allergènes ? Cordialement.,produit
+620,Le panier se vide tout seul Merci d'avance.,technique
+621,"Hello, Le code promo n'a pas été appliqué sur ma facture Bonne journée.",facturation
+622,"Bonjour, Le produit reçu ne correspond pas à la photo Cordialement.",produit
+623,"Bonjour, La page produit ne charge pas sur mobile Cordialement.",technique
+624,"Hello, Je n'ai pas reçu l'email de confirmation de la commande 5927",compte
+625,Le site ne me laisse pas changer mon mot de passe Merci.,compte
+626,"Hello, Mon espace client affiche une erreur C'est urgent.",compte
+627,Besoin d'aide pour ma commande 4164 Bonne journée.,facturation
+628,Bonjour. La bouilloire est-elle garantie ? C'est urgent.,produit
+629,"Madame, Monsieur, Il manque un article dans mon colis 3851 C'est urgent.",livraison
+630,La commande 5508 est bloquée C'est urgent.,technique
+631,"Bonjour, Ma commande 7939 n'est toujours pas arrivée",livraison
+632,"Hello, Comment obtenir une facture au nom de mon entreprise ? Cordialement.",facturation
+633,Bonjour. Mon compte a été bloqué sans raison,compte
+634,"Bonjour, Durée de conservation du thé Matcha Bonne journée.",produit
+635,Je n'ai pas reçu ma facture pour la commande 7572 Merci.,facturation
+636,Le colis est arrivé abîmé,livraison
+637,"Salut, Je ne comprends pas le statut de ma commande Bonne journée.",livraison
+638,"Salut, Paiement refusé alors que ma carte fonctionne Cordialement.",facturation
+639,Colis perdu par le transporteur Cordialement.,livraison
+640,"Bonjour, Erreur sur ma commande 2465 Bonne journée.",technique
+641,"Madame, Monsieur, Le site affiche une erreur 500 quand je valide mon panier",technique
+642,"Hello, Problème avec ma commande 4524",facturation
+643,"Bonjour, Je ne comprends pas le statut de ma commande",facturation
+644,"Bonjour, Je n'arrive pas à accéder à mon compte Merci d'avance.",compte
+645,"Bonjour, Il manque un article dans mon colis 3938 Bonne journée.",livraison
+646,Bonjour. Je veux annuler la commande 3948 Merci d'avance.,livraison
+647,Bonjour. Il manque un article dans mon colis 1475 Bonne journée.,livraison
+648,Le site ne me laisse pas changer mon mot de passe Cordialement.,technique
+649,Bonjour. Le colis est arrivé abîmé Bonne journée.,livraison
+650,"Salut, Pouvez-vous m'envoyer un avoir pour la commande 5010 ? Cordialement.",facturation
+651,"Salut, Mettre à jour mon numéro de téléphone Bonne journée.",compte
+652,"Bonjour, Le colis est arrivé abîmé Bonne journée.",livraison
+653,Bonjour. Le bouton payer ne fait rien Bonne journée.,technique
+654,"Hello, Changer la langue de mon compte Cordialement.",compte
+655,"Madame, Monsieur, Erreur sur ma commande 7244 Bonne journée.",livraison
+656,Bonjour. Le thé Earl Grey sera-t-il de nouveau en stock ? Cordialement.,produit
+657,"Bonjour, Le colis est arrivé abîmé Bonne journée.",livraison
+658,"Bonjour, Le prix affiché n'est pas celui facturé Cordialement.",facturation
+659,Le code promo n'a pas été appliqué sur ma facture C'est urgent.,facturation
+660,"Hello, Avez-vous une version sans théine du Matcha ?",produit
+661,Paiement refusé alors que ma carte fonctionne Merci.,facturation
+662,"Hello, Besoin d'aide pour ma commande 2033 Merci d'avance.",livraison
+663,Problème avec ma commande 3541 Bonne journée.,livraison
+664,Je veux supprimer mon compte et mes données Merci d'avance.,compte
+665,Bonjour. Comment changer mon adresse email ?,compte
+666,Quelle est la différence entre les deux théières ?,produit
+667,Bonjour. Problème avec ma commande 4342 Merci.,facturation
+668,"Bonjour, Changer la langue de mon compte Merci d'avance.",compte
+669,"Bonjour, La commande 8055 est bloquée Merci d'avance.",facturation
+670,"Hello, Je souhaite un remboursement de la commande 1949",facturation
+671,"Salut, La bouilloire est-elle garantie ? Merci.",produit
+672,"Hello, Durée de conservation du thé Oolong Cordialement.",produit
+673,"Hello, Je souhaite un remboursement de la commande 1949",facturation
+674,"Salut, Mon compte a été bloqué sans raison",compte
+675,"Salut, Le suivi de colis ne fonctionne pas C'est urgent.",technique
+676,"Salut, Quelle est la différence entre les deux théières ? Merci.",produit
+677,"Hello, Quel est le délai de livraison pour l'Allemagne ?",livraison
+678,"Salut, Je ne comprends pas le statut de ma commande Bonne journée.",livraison
+679,"Madame, Monsieur, Quelle est la différence entre les deux théières ?",produit
+680,Le produit reçu ne correspond pas à la photo Merci.,produit
+681,Bonjour. Fusionner mes deux comptes clients C'est urgent.,compte
+682,"Hello, Je n'ai pas reçu l'email de confirmation de la commande 4878 Merci d'avance.",compte
+683,"Salut, Le site ne me laisse pas changer mon mot de passe Bonne journée.",compte
+684,"Bonjour, Le code promo n'a pas été appliqué sur ma facture",facturation
+685,"Bonjour, Je n'ai pas été remboursé du retour du Sencha Cordialement.",produit
+686,"Madame, Monsieur, Mon espace client affiche une erreur C'est urgent.",compte
+687,"Madame, Monsieur, Le bouton payer ne fait rien",technique
+688,"Hello, Impossible de me connecter, le mot de passe est refusé",technique
+689,"Salut, Où en est l'expédition de la commande 4613 ? Merci d'avance.",livraison
+690,"Hello, Colis perdu par le transporteur Merci.",livraison
+691,"Madame, Monsieur, Activer la double authentification C'est urgent.",compte
+692,"Hello, Le site ne me laisse pas changer mon mot de passe Merci d'avance.",technique
+693,"Bonjour, Paiement refusé alors que ma carte fonctionne Cordialement.",facturation
+694,"Bonjour, La commande 4625 est bloquée Merci d'avance.",technique
+695,Bonjour. Les images ne s'affichent pas Merci d'avance.,technique
+696,La commande 3399 est bloquée Merci d'avance.,technique
+697,Bonjour. Mon espace client affiche une erreur Merci d'avance.,compte
+698,"Hello, Le prix affiché n'est pas celui facturé Cordialement.",technique
+699,Bonjour. Je ne comprends pas le statut de ma commande Cordialement.,livraison
+700,"Bonjour, La page produit ne charge pas sur mobile C'est urgent.",technique
+701,La commande 5508 est bloquée C'est urgent.,technique
+702,"Bonjour, Je veux exporter mes données personnelles",compte
+703,"Bonjour, Colis perdu par le transporteur Cordialement.",livraison
+704,Bonjour. Erreur sur ma commande 9609 Merci.,livraison
+705,"Madame, Monsieur, Ma commande 9837 n'est toujours pas arrivée Merci.",livraison
+706,"Hello, Livraison en point relais possible ? Merci d'avance.",livraison
+707,"Bonjour, Erreur lors de l'ajout au panier Bonne journée.",technique
+708,"Hello, Le site est très lent depuis hier C'est urgent.",technique
+709,Bonjour. Comment changer mon adresse email ? C'est urgent.,compte
+710,Les images ne s'affichent pas Merci d'avance.,technique
+711,"Madame, Monsieur, Le site ne me laisse pas changer mon mot de passe C'est urgent.",technique
+712,"Salut, Le panier se vide tout seul Cordialement.",technique
+713,Bonjour. La commande 8204 est bloquée Merci.,facturation
+714,"Salut, Je n'ai pas été remboursé du retour du Matcha Cordialement.",produit
+715,Erreur sur ma commande 2063 Merci d'avance.,livraison
+716,"Bonjour, Où en est l'expédition de la commande 7455 ?",livraison
+717,"Madame, Monsieur, Il manque un article dans mon colis 3704 C'est urgent.",livraison
+718,"Bonjour, Le colis est arrivé abîmé Bonne journée.",livraison
+719,"Bonjour, Besoin d'aide pour ma commande 8429 Cordialement.",facturation
+720,"Madame, Monsieur, Activer la double authentification Merci.",compte
+721,"Bonjour, Quel est le délai de livraison pour l'Allemagne ? Cordialement.",livraison
+722,"Bonjour, Où en est l'expédition de la commande 7455 ?",livraison
+723,"Hello, La commande 6269 est bloquée Cordialement.",technique
+724,"Bonjour, Problème avec ma commande 3252 Merci.",facturation
+725,"Hello, Je n'ai pas reçu l'email de confirmation de la commande 9625 Merci d'avance.",livraison
+726,"Hello, L'application plante au démarrage sur Android Merci d'avance.",technique
+727,Bonjour. Besoin d'aide pour ma commande 9508 C'est urgent.,compte
+728,Bonjour. Je n'ai pas été remboursé du retour du Sencha C'est urgent.,facturation
+729,"Bonjour, Erreur de TVA sur la facture 5803 Merci.",facturation
+730,"Bonjour, Le montant prélevé ne correspond pas à ma commande 4733 Merci.",facturation
+731,"Salut, Problème avec ma commande 4203 Merci.",facturation
+732,"Bonjour, Mon espace client affiche une erreur C'est urgent.",technique
+733,Comment changer mon adresse email ? Merci d'avance.,compte
+734,"Bonjour, Je veux exporter mes données personnelles Bonne journée.",compte
+735,"Bonjour, Le produit Sencha n'est plus disponible dans mon panier Cordialement.",produit
+736,Je n'ai pas été remboursé du retour du Earl Grey C'est urgent.,facturation
+737,"Salut, Quel est le délai de livraison pour l'Allemagne ? Cordialement.",livraison
+738,Problème avec ma commande 3541 Bonne journée.,livraison
+739,Bonjour. Comment changer mon adresse email ?,compte
+740,"Madame, Monsieur, Le montant prélevé ne correspond pas à ma commande 9935 Cordialement.",facturation
+741,"Hello, Le colis est indiqué livré mais je n'ai rien reçu Bonne journée.",livraison
+742,"Bonjour, Mon espace client affiche une erreur",technique
+743,Bonjour. Où en est l'expédition de la commande 9976 ? Bonne journée.,livraison
+744,"Madame, Monsieur, Je ne comprends pas le statut de ma commande",livraison
+745,"Hello, Je n'ai pas été remboursé du retour du Matcha Merci.",facturation
+746,"Salut, Je veux exporter mes données personnelles Merci.",compte
+747,"Bonjour, Besoin d'aide pour ma commande 8429 Cordialement.",facturation
+748,Bonjour. Ce produit est-il bio ? Merci d'avance.,produit
+749,"Salut, Le suivi de colis ne fonctionne pas C'est urgent.",technique
+750,"Hello, Quel est le délai de livraison pour l'Allemagne ?",livraison
+751,"Bonjour, Je n'ai pas reçu l'email de confirmation de la commande 3295 Merci.",compte
+752,Bonjour. Je souhaite un remboursement de la commande 6180 Cordialement.,facturation
+753,"Bonjour, Je ne reçois pas l'email de réinitialisation du mot de passe C'est urgent.",technique
+754,"Bonjour, Erreur de TVA sur la facture 7396 Merci d'avance.",facturation
+755,"Hello, La commande 5333 est bloquée Merci d'avance.",livraison
+756,Bonjour. Je ne comprends pas le statut de ma commande Cordialement.,livraison
+757,"Salut, Le colis est arrivé abîmé Merci d'avance.",livraison
+758,"Hello, Conseils de préparation pour le thé vert Merci.",produit
+759,"Madame, Monsieur, Je n'ai pas été remboursé du retour du Sencha Bonne journée.",facturation
+760,"Salut, Le prix affiché n'est pas celui facturé Merci.",facturation
+761,"Madame, Monsieur, Livraison en point relais possible ?",livraison
+762,Avez-vous une version sans théine du Matcha ? Cordialement.,produit
+763,"Hello, Le site est très lent depuis hier",technique
+764,"Bonjour, Le site ne me laisse pas changer mon mot de passe Cordialement.",technique
+765,"Salut, Le suivi de colis ne fonctionne pas Bonne journée.",technique
+766,"Madame, Monsieur, Je ne reçois pas l'email de réinitialisation du mot de passe",technique
+767,"Salut, Fusionner mes deux comptes clients Merci d'avance.",compte
+768,"Bonjour, Mettre à jour mon numéro de téléphone Cordialement.",compte
+769,"Salut, Je veux annuler la commande 1539",facturation
+770,"Bonjour, Le montant prélevé ne correspond pas à ma commande 5506 Merci.",facturation

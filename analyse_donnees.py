@@ -9,8 +9,7 @@ retrouver la demande elle-même, puis on regarde si les humains l'ont toujours
 """
 import re
 
-from classifieur import charger
-from evaluer import dedoublonner
+from classifieur import charger, dedoublonner
 
 SALUTATIONS = r"^(Bonjour|Bonsoir|Hello|Salut|Madame, Monsieur)[,.!]?\s*"
 FORMULES_FIN = r"\s*(Merci d'avance|Merci|Cordialement|Bonne journée|C'est urgent)\.?$"

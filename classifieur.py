@@ -13,6 +13,10 @@ def charger(chemin='data/tickets.csv'):
     df = pd.read_csv(chemin)
     df['texte'] = df['texte'].fillna('').str.strip()
     return df
+def dedoublonner(df):
+    """Le CSV mélange deux exports (ancien et nouvel outil) : un même ticket y figure plusieurs fois.
+    On garde un exemplaire de chaque couple (texte, catégorie)."""
+    return df.drop_duplicates(subset=['texte', 'categorie']).reset_index(drop=True)
 
 
 class Classifieur:

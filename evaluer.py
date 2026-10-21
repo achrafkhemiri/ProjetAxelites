@@ -10,15 +10,12 @@ import pandas as pd
 from sklearn.model_selection import StratifiedGroupKFold
 from sklearn.metrics import confusion_matrix
 
-from classifieur import Classifieur, charger, CATEGORIES
+from classifieur import Classifieur, charger, dedoublonner, CATEGORIES
 
 ERREUR_MAX = 0.10  # règle métier du README : moins d'un ticket sur dix mal routé, par catégorie
 
 
-def dedoublonner(df):
-    """Le CSV mélange deux exports (ancien et nouvel outil) : un même ticket y figure plusieurs fois.
-    On garde un exemplaire de chaque couple (texte, catégorie)."""
-    return df.drop_duplicates(subset=['texte', 'categorie']).reset_index(drop=True)
+
 
 
 def textes_contradictoires(df):

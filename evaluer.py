@@ -11,6 +11,7 @@ from sklearn.model_selection import StratifiedGroupKFold
 from sklearn.metrics import confusion_matrix
 
 from classifieur import Classifieur, charger, dedoublonner, CATEGORIES
+from predire import SEUIL_CONFIANCE
 
 ERREUR_MAX = 0.10  # règle métier du README : moins d'un ticket sur dix mal routé, par catégorie
 
@@ -66,20 +67,31 @@ def rapport(p):
     return pd.DataFrame(lignes).set_index('categorie')
 
 
+def afficher_par_categorie(p):
+    r = rapport(p)
+    print(r.to_string(formatters={k: '{:.1%}'.format for k in ['precision', 'rappel', 'erreur_dans_la_file']}))
+    ok = (r['regle_10%'] == 'OK').all()
+    print("Verdict :", "règle métier respectée dans toutes les files" if ok else
+          "règle métier NON respectée : " + ", ".join(r.index[r['regle_10%'] != 'OK']))
+
+
 def afficher(p):
     exactitude = (p['vrai'] == p['pred']).mean()
     print(f"Exactitude globale : {exactitude:.1%}  (erreur {1 - exactitude:.1%})")
     if 'repetition' in p and p['repetition'].nunique() > 1:
         par_rep = (p['vrai'] == p['pred']).groupby(p['repetition']).mean()
         print(f"  selon le tirage : de {par_rep.min():.1%} à {par_rep.max():.1%}")
-    r = rapport(p)
-    print("\nPar catégorie :")
-    print(r.to_string(formatters={k: '{:.1%}'.format for k in ['precision', 'rappel', 'erreur_dans_la_file']}))
+
+    print("\n=== Sans seuil : tous les tickets sont routés ===")
+    afficher_par_categorie(p)
     print("\nMatrice de confusion (lignes = vraie catégorie, colonnes = prédite, cumul des répétitions) :")
     print(pd.DataFrame(confusion_matrix(p['vrai'], p['pred'], labels=CATEGORIES), index=CATEGORIES, columns=CATEGORIES))
-    ok = (r['regle_10%'] == 'OK').all()
-    print("\nVerdict :", "routage automatique acceptable" if ok else
-          "règle métier NON respectée : " + ", ".join(r.index[r['regle_10%'] != 'OK']))
+
+    routes = p[p['confiance'] >= SEUIL_CONFIANCE]
+    print(f"\n=== Avec le seuil de confiance {SEUIL_CONFIANCE} (predire.py) : seuls les tickets sûrs sont routés ===")
+    print(f"Routés automatiquement : {len(routes) / len(p):.1%}  |  laissés en manuel (a_trier) : {1 - len(routes) / len(p):.1%}")
+    print(f"Erreur sur les tickets routés : {(routes['vrai'] != routes['pred']).mean():.1%}")
+    afficher_par_categorie(routes)
 
 
 def main():
